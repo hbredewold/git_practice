@@ -1,8 +1,9 @@
 <b> Uploaded dataset description </b>
-
+<br>
 <p> This set is a dataset that contains the names and extra information of people who have won a nobel price since 1901 including 2023. Per year, per categories. Below will be a table with variables inside the dataset. </p>
-
+<br>
 <b> Table with variables and descriptions </b>
+<br>
 
 | Variable | Description |
 | --- | ----------- |
@@ -23,8 +24,9 @@
 | organizationCountry | Country in which this organization is based  |
 | organizationCity | City in which this organization is based |
 
-<b> Information about the creat/curator and source of the dataset <b>
+<b> Information about the creat/curator and source of the dataset </b>
+<br>
 
-<p> The dataset was downloaded from the website [Kaggle.com](https://www.kaggle.com/datasets/sazidthe1/nobel-prize-data/) and created by the user [Sazidul Islam](https://www.kaggle.com/sazidthe1).  </p>
+<p> The dataset was downloaded from the website [Kaggle.com](https://www.kaggle.com/datasets/sazidthe1/nobel-prize-data/), a website which makes various datasets accesible for users. The dataset was created by the user [Sazidul Islam](https://www.kaggle.com/sazidthe1). The curator stated that the primary dataset was retrieved from the Nobel Foundation's Nobel Prize Data. The curator himself has a profile on the Kaggle website, which states that he is a data analist by trade.    </p>
 <p>  </p>
 
