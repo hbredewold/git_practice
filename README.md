@@ -1,8 +1,7 @@
 <b> Uploaded dataset description </b>
 <br>
 <p> This set is a dataset that contains the names and extra information of people who have won a nobel price since 1901 including 2023. Per year, per categories. Below will be a table with variables inside the dataset. </p>
-<br>
-<p> [link to dataset](git_practice/nobel_laureates_data.csv)</p>
+
 <br>
 <b> Table with variables and descriptions </b>
 <br>
